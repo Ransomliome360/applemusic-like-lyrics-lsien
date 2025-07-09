@@ -16,3 +16,4 @@ target/
 .nx
 .idea
 .vscode/
+.env
